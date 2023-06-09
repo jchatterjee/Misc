@@ -6,3 +6,8 @@
 https://github.com/jchatterjee/Misc/blob/main/strange-death-stack-overflow.ipynb
 
 <p align="justify">From the site’s founding in 2008 thru Q1 2014, the number of monthly questions and answers created on Stack Overflow grew steadily. Since then, volume has been flat-to-decreasing. Why? Does this matter? Are there opportunities for the site to grow faster?</p>
+
+## Never Ask a Woman Her Age?: Testing the Veracity of a Classic Adage
+https://github.com/jchatterjee/Misc/blob/main/never-ask-age-or-gender.ipynb
+
+<p align="justify">This investigation was conducted to determine whether there is a strong correlation between gender and reluctancy to reveal age, as is commonly believed.</p>
